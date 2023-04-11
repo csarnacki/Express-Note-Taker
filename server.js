@@ -1,4 +1,4 @@
-const port = process.env.port || 3001;
+const port = Process.env.port || 3001;
 const fs = require('fs');
 const path = require('path');
 
